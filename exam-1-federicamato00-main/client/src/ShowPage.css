@@ -1,0 +1,77 @@
+
+  
+  .bold {
+    font-size: 300%;
+    text-align: center;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+    color: rgb(0, 0, 0);
+    font-style: oblique;
+  }
+  .text-end
+  {
+    font-size: medium;
+    text-align: end;
+    margin-right: 20px;
+    font-family: "Times New Roman", Times, serif;
+    color: #856161;
+  }
+  h2 {
+    text-align:left;
+    font-weight: bold;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .author {
+    font-weight: bold;
+  }
+
+  .paragraph {
+    text-align:justify;
+    justify-content: center;
+    margin: auto;
+    margin-top: 10px;
+    width: 70%;
+    font-style: oblique;
+    font-size: large;
+    color: rgb(72, 72, 72);
+    font-family:Arial, Helvetica, sans-serif;
+  }
+  .publicationdate {
+    justify-content: left;
+    font-style: oblique;
+    margin-left: 20px;
+    color: #856161;
+  }
+  .header {
+    text-align:  justify;
+    font-size: xx-large;
+    font-weight: bold;
+    font-style: oblique;
+    margin: auto;
+    color: rgb(56, 56, 56);
+    width: 70%;
+    font-family: "Times New Roman", Times, serif;
+  }
+  .content{
+    margin: auto;
+    width: 70%;
+    border: 1px solid;
+    padding: 10px;
+    background-color: rgb(239, 239, 222);
+    box-shadow: 5px 10px 18px #888888;
+  }
+  .image-container{
+
+    display: flex;
+    justify-content: center;
+    height: 100%;
+  }
+  .image-container img {
+    
+    max-width: 50%;
+    max-height: 50%;
+    
+  }
+  .text{
+    color: rgb(69, 69, 69);
+  }
